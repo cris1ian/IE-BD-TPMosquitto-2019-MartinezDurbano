@@ -1,10 +1,10 @@
 Trabajo Practico N°2 de Bases de Datos (Electronica)
 ==============================
 
-# Alumno: Cristian Martínez D'Urbano
+Alumno: Cristian Martínez D'Urbano
 
-Notas
-------------
+Notas:
+
 Se editaron los archivos
              
 * `sensors.py`
